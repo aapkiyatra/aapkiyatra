@@ -4,11 +4,11 @@ Responsive static travel website with Aapki Yatra branding, journeys from Shimla
 
 ## Run locally
 
-Run `python3 -m http.server 8080 --directory dist` and open http://localhost:8080.
+Run `python3 -m http.server 8080` and open http://localhost:8080.
 
 ## Deploy
 
-Publish the `dist` directory with any static host. No build or package installation is needed.
+GitHub Pages publishes the repository root from the `main` branch. Live site: https://aapkiyatra.github.io/aapkiyatra/ No build or package installation is needed.
 
 ## Content and enquiries
 
